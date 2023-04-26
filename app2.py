@@ -4,9 +4,9 @@ from oauth2client.service_account import ServiceAccountCredentials
 
 app = Flask(__name__)
 
-# Set 
+# Set
 scope = ['https://www.googleapis.com/auth/spreadsheets', 'https://www.googleapis.com/auth/drive']
-creds = ServiceAccountCredentials.from_json_keyfile_name('tranquil-rex-299517-091873829a6e.json', scope)
+creds = ServiceAccountCredentials.from_json_keyfile_name('wellness-384910-0348bf30ca60.json', scope)
 client = gspread.authorize(creds)
 
 # Define the home page with a form to input numberFind

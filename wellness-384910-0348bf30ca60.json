@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "wellness-384910",
+  "private_key_id": "0348bf30ca603213a8f6837af423e4d25a1939bb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDdEaBxsizXjTpO\nXfD4Yet96lHwMJrQH3juFkvREQtHPZGjdiqg7zWsbsb2SMdbVHiHe9y1UU/Ycg5o\n3kFadA5SDWU+Nw51wDSSsbekzZS3Edkw0kosn4maewyq3JQhco3BY3c36A56AoLn\n2Pt5hekquxy1HZqsfpI7o3cKSyeC8GlsQ39REsc6EvqItUAbf0smOahuMWWGmjt8\nzTLsSXMsHPBVtVKBUz9yxAFPiJHECN6L85LNhliDkHq3ag2KEBVwkEAYxA2Iw7ld\n+QPo8lZWKWZRh90N26vX2kCIzjLEAOoDSPdyWafTyh640zsO0i+zvrM0EiOZOZfk\n3zqhvOsjAgMBAAECggEAJaQ1tIZJGl7CuctHF5PcvDDkyMgN5DgnqCqFuFB1oii6\nnqGlOofglL68A/16bHOinjcZ6omw1cL97x9A83zlX1VGkuRfAu+6Q+wcv+P9WXqh\nh62W0ahMjtA65PDwDA3sUyxzhUJvDJlW3tFUaGnDvPHlPnWO+6YFkkAQKeGIFcQ2\nq8EOAx6fHXdlJXO1GRaLZhX9W+kwEDUtW78EvhugDQSdr6yRJ7Rz/xrqMCwCwhr7\nDHho6qsCuy1cYM71sVlGl6PI3MjbcbDzJ9xE9wNfW+bvYlPE5phHCgMbPgvWFOvJ\nymCQiWYoZrxfW98xlDDPsTavsVGL5f/zwp8rGeXsyQKBgQD3YdppilriAyU6p/wO\nLMucGbY/GR9WHMexlElnmneUluCkM5jdLwhHy4IgN0NeshxgQ4vuFvbbs029YOY7\no6SvfMNi0f455DlOHPU/gte0HxomkoIDS/uMVkC+MqYPi2nVXiVUX1Z8N+kSbG3X\n8s/tJAkVtHCqwz4aRRlRw/D9dQKBgQDkxRyU71Ug4eWu4cg1eFV58tsyad2YLeUK\nCUQfEyLe9Uwzzxq3+2x9wR0wj5UgwqUwUYw/ofvl7Ol8Y0Mu61RjwH7IwQhOC0MT\nWRH4xFajm7IOO7RQCI2Q/UWbi5uY6iJugGzd9wf+GJ17+F97HrT5Ww0F50vT7Ct9\nMrCOzEq7NwKBgEBNTCOA1gzHeobboVXh6O7jdA7ErfOJOZL8E3R9nzWdXjjwPHzJ\nu+JFkMZk9vsHWv7er+GsUHBdFAj0xgOcjrMawALQyL8thoO6XTkr/nuQVhDOpkLL\nHlClHuERcz65I0JV3Wgn++f/9HJYgtjOAaQHaOEebObGJz9W1LT/NIX9AoGBAL6n\nr2xIEbA3001uCYbWZJYfWaKoK+9ZwFoe4tDrB9K8p+c9oMzYEtCzEnqYDvaggT7F\nl5aojuBOE0CBEUqXAVuo34C7rworxJjpUFr8diAf78KA64MPvbup+ErrjJ9h8ZQa\nH6DU8apIJWdd1WUscDKoOTBEVSOm3Y+XoSFBDL79AoGAJpNt3ZpgNUIlEnDkBHnQ\naEbxbg3Tl68gzBIaPXRqHFIZoggulmeLo884KGLCo8t6OVBR0aMx6y1t5tepmlfl\nyDLkxmcEfXg6TmE+7jE35D/Thc7lhEgxNKQ0PpGfOQiovVjMCGCkQV6Pz/npLFl5\nrdXrxISrBj0U6Su/RzKHoDo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "wellness-cci@wellness-384910.iam.gserviceaccount.com",
+  "client_id": "105298981103149937943",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wellness-cci%40wellness-384910.iam.gserviceaccount.com"
+}
